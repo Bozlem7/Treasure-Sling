@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdde1dc825683f34593f2fdb917d8168, type: 3}
+  m_Name: MetalObject
+  m_EditorClassIdentifier: 
+  footStepSounds:
+  - {fileID: 8300000, guid: 8b58d404874a68e4f8c33ea881c7a458, type: 3}
+  - {fileID: 8300000, guid: 5d233090e1c66cb479167a21509ddb37, type: 3}
+  - {fileID: 8300000, guid: 9f5d0b89d2e43264abbba923c397d754, type: 3}
+  - {fileID: 8300000, guid: cd936534adab0c7478da4944aeae2401, type: 3}
+  - {fileID: 8300000, guid: 986d6dc5c0dea414089a304ff7eb5ad4, type: 3}
+  - {fileID: 8300000, guid: d539e192d13c3f84abaf9ffa184fd2b6, type: 3}

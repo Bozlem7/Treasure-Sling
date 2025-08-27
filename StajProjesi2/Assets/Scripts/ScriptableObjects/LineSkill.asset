@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92d83c43610a0864a8383af3f805d976, type: 3}
+  m_Name: LineSkill
+  m_EditorClassIdentifier: 
+  itemName: LineSkill
+  icon: {fileID: 21300000, guid: 36dade539c16997458d14fd0d9b70f00, type: 3}
+  maxDistance: 10
+  linePrefab: {fileID: 4312549034984257587, guid: 821b0f89429b7fd4d84ba459bfb83a49, type: 3}
+  wallPrefab: {fileID: 6196905809417052297, guid: 5fe53c12f2f33d84d842ee197c687f7d, type: 3}

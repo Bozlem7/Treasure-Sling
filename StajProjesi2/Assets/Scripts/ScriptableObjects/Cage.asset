@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda067600f29b44a5f1598e50559f7, type: 3}
+  m_Name: Cage
+  m_EditorClassIdentifier: 
+  itemName: Cage
+  icon: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  cageObject: {fileID: 975753699495840988, guid: 1b23d5c18b2329448b09d04c79a0bd42, type: 3}
+  rangeIndicatorPrefab: {fileID: 4312549034984257587, guid: 821b0f89429b7fd4d84ba459bfb83a49, type: 3}
+  throwForce: 5
+  maxRadius: 50
+  miniCageObject: {fileID: 5856685070048154260, guid: 44f7f1508843bf44e817ef44bee8ae8a, type: 3}
